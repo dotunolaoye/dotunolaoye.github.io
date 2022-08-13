@@ -1,5 +1,5 @@
 
-# About me
+# ABOUT ME
 Experienced scientist with more than 3 years experience in disease trait discovery and evaluation within the academic, international research institute and industry setting. I combine skills in plant breeding, genetics/genomics, pathology and data analytics in delivering results to achieve goals towards food security.
 
 # EDUCATION 
