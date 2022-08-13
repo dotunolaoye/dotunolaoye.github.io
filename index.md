@@ -24,7 +24,7 @@ Graduate Research Assistantship (USDA-funded) for Master of Science degree      
 Microscopic investigation, serial dilution, isolation and purification of pathogens; (bacteria, fungi, virus and nematodes), maintenance of pathogen isolate/culture, Mycotoxin (Aflatoxin and Fumonisin) extraction and quantification, ELISA, Nucleic Acid (DNA and RNA) extraction and purification, Spectrophotometry, PCR, Gel electrophoresis
 
 # FIELD/GREENHOUSE/LABORATORY EXPERIENCE 
- Production of high-quality inoculum for disease assays including those for soybean and snap bean 
+ Production of high-quality inoculum for disease assays including those for field corn, sweetcorn, soybean and snap bean 
  
  Experience conducting disease assays and phenotyping for resistance to major diseases of field corn, sweetcorn, soybean and snap bean in the field and greenhouse       within Syngenta.
  
