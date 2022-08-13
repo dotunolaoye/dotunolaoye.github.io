@@ -74,7 +74,8 @@ Microscopic investigation, serial dilution, isolation and purification of pathog
  Wilt – British Research Council (DfID)-funded – investigated by my undergraduate thesis advisor,                                        
  June 2015 – October 2016                                        
 
-JOURNAL PUBLICATION (or in preparation)
+# JOURNAL PUBLICATION (or in preparation)
+
 First author: Association analysis of resistance to the downy mildew pathogen race 5 in spinach worldwide germplasm (manuscript under preparation for journal submission to Frontiers in Plant Science) 
 
 First author: Resistance characterization to races of the downy mildew pathogen of spinach (manuscript under preparation for journal submission to Euphytica)
