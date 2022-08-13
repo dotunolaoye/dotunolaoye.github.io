@@ -38,7 +38,7 @@ Microscopic investigation, serial dilution, isolation and purification of pathog
  
  Report writing on funded projects 
 
-# PROFESSIONAL EXPERIENCE (within Syngenta) 
+# PROFESSIONAL EXPERIENCE 
  Experience with planning and implementation of pathology research trials on field corn within Trait Assessment, North America. Syngenta
  
  Contributes to disease trait evaluation efforts on field corn, sweetcorn, soybean and snap bean for product advancement within Syngenta
