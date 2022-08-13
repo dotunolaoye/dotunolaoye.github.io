@@ -25,22 +25,36 @@ Microscopic investigation, serial dilution, isolation and purification of pathog
 
 # FIELD/GREENHOUSE/LABORATORY EXPERIENCE 
  Production of high-quality inoculum for disease assays including those for soybean and snap bean 
+ 
  Experience conducting disease assays and phenotyping for resistance to major diseases of field corn, sweetcorn, soybean and snap bean in the field and greenhouse       within Syngenta.
+ 
  Standardization of disease assay protocols
+ 
  Experience with crop (soybean, maize, hemp, spinach, cowpea, common bean and arugula) breeding efforts in the greenhouse/field.
+ 
  Phenotypic (disease) data collection and analysis  
+ 
  Genetic analysis (marker-trait association analysis) including QTL mapping and genomic prediction
+ 
  Report writing on funded projects 
 
 # PROFESSIONAL EXPERIENCE (within Syngenta) 
  Experience with planning and implementation of pathology research trials on field corn within Trait Assessment, North America. Syngenta
+ 
  Contributes to disease trait evaluation efforts on field corn, sweetcorn, soybean and snap bean for product advancement within Syngenta
+ 
  Moderate user of SPIRIT platform within Syngenta
+
  Experience with the adoption of data collection tool (EZCapture) for research trials within Syngenta
+ 
  Familiar with sourcing and managing seed materials via MINT platform within Syngenta
+ 
  Experience with Benchling platform for trial record keeping purposes
+
  Serves as member on Market Segment Teams for Field Corn pathology traits in North America.
+ 
  Provide support/technical expertise for teams (Crop Protection) on pathology efforts.
+
  Work in compliance with HSE and/or stewardship policies of the company
 
 # WORK/RESEARCH EXPERIENCE 
