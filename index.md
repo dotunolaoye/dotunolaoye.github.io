@@ -84,6 +84,8 @@ First author: Transcript and proteome profiling for drought tolerance in common 
 
 MS Thesis: Olaoye, D. (2021). Resistance Screening and Association Mapping for Resistance to the Downy Mildew Pathogen of Spinach. Graduate Theses and Dissertations Retrieved from https://scholarworks.uark.edu/etd/4107
 
+Bhattarai, G., Olaoye D., Mou, B., Correll, J., Shi, A. 2022. Mapping and selection of downy mildew resistance in spinach cv. Whale by low coverage whole genome sequencing Front. Plant Sci (Submitted)
+
 Zia, B, A. Shi, D. Olaoye, H. Xiong, W. Ravelombola, P. Gepts, H.F. Schwartz, M.A. Brick, K. Otto, B. Ogg, and S, Chen. 2022. Genome-wide association study and genomic prediction for bacterial wilt resistance in common bean (Phaseolus vulgaris) core collection.  Front. Genet. https://doi.org/10.3389/fgene.2022.853114
 
 Ravelombola, W., Shi, A., Huynh, B.L., Qin, J., Xiong, H., Manley, A., Dong, L., Olaoye, D., Bhattarai, G., Zia, B. and Alshaya, H., 2022. Genetic architecture of salt tolerance in a Multi-Parent Advanced Generation Inter-Cross (MAGIC) cowpea population. BMC genomics, 23(1), pp.1-22.
