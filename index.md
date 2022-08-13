@@ -1,18 +1,14 @@
-## You are welcome to my personal page
 
 # About me
-## Education
-### Research interest
-
-SUMMARY
 Experienced scientist with more than 3 years experience in disease trait discovery and evaluation within the academic, international research institute and industry setting. I combine skills in plant breeding, genetics/genomics, pathology and data analytics in delivering results to achieve goals towards food security.
 
 EDUCATION 
- 	Master of Science – Plant Breeding, Genetics and Pathology.
- University of Arkansas, Fayetteville. USA                                                                              May 2021           
+
+Master of Science – Plant Breeding, Genetics and Pathology.
+University of Arkansas, Fayetteville. USA                                                                          May 2021           
                                                                              
- 	Bachelor of Agriculture (Honor’s: Crop Protection/Pathology)
-Federal University of Agriculture, Abeokuta. Nigeria.                                                            2017                                                                                                                    
+Bachelor of Agriculture (Honor’s: Crop Protection/Pathology)
+Federal University of Agriculture, Abeokuta. Nigeria.                                                                2017                                                                                                                    
 
 SELECTED AWARD/HONORS 
  	Society Conference Travel Grant Award ($350) – Annual International Meeting (American Society for Horticultural Science, ASHS), Orlando, Florida. U.S.A (Revoked due to covid19 restriction as the award 
