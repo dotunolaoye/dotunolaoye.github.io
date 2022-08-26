@@ -1,11 +1,5 @@
-theme: jekyll-theme-architect
-title: Dotun Olaoye
-description: Welcome to my personal homepage
-
-
 
 title: "Dotun Olaoye"
-author: "Dotun Olaoye"
 description: "University of Arkansas"
 permalink: /:title/
 lang: "en"
@@ -22,7 +16,7 @@ show_sidebar: false        # show a sidebar instead of the usual header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
-  - {url: "/Dotun.pdf", title: CV}
+  - {url: "Dotun.pdf", title: CV}
   - {file: "blog.md"}
 
 
