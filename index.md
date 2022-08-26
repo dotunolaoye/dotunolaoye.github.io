@@ -137,4 +137,4 @@ Experience working with sequence data
 Moderate skills in bioinformatics/genomic tools and database mining 
 Tools includes: R, Python, SAS, JMP, GATK Packages, JOINMAP, QTL analytical softwares, sequence analytical software/tools (TASSEL, MEGA, FARMCPU, GAPIT & BLINK), genomic selection models implemented in R.
 
-
+![This](https://myoctocat.com/assets/images/base-octocat.svg)
