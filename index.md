@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/111164936/186810700-36a5559b-2dfc-4dcd-89ff-9c3ff75e0319.png)
 
 # ABOUT ME
-Experienced scientist with more than 3 years experience in disease trait discovery and evaluation within the academic, international research institute and industry setting. I combine skills in plant breeding, genetics/genomics, pathology and data analytics in delivering results to achieve goals towards food security.
+Solution driven scientist with more than 3 years experience in disease trait discovery and evaluation within the academic, international research institute and industry setting. I combine skills in plant breeding, genetics/genomics, pathology and data analytics in delivering results to achieve goals towards food security.
 
 # EDUCATION 
 
