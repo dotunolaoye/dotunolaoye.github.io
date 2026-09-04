@@ -23,32 +23,42 @@ Federal University of Agriculture, Abeokuta. Nigeria. 2017
 ## WORK EXPERIENCE
 
 **Graduate Research Assistant**, University of Missouri, Columbia. June 2024 - Present
+
 - Built and validated a multi-breed genomic prediction pipeline (univariate, bivariate, and multi-trait single-step GBLUP and GBLUP) for puberty and fertility traits across five beef cattle breed populations (Angus, Red Angus, Hereford, Bos indicus-influenced, and a pooled MultiBreed population of over 9,000 animals genotyped on an 800K SNP panel) using BLUPF90+/GIBBSF90+
-- Estimated variance components, heritability, and genetic correlations via REML/AI-REML, and validated genomic prediction accuracy using the LR (Legarra & Reverter, 2018) temporal validation framework
-- Extended weighted genomic prediction methodology to disease-resistance and abiotic-stress trait prediction in cowpea and common bean, using SNP weighting informed by meta-transcriptomic (RNA-seq) evidence
+- Estimated variance components, heritability, and genetic correlations via REML/AI-REML, and validated genomic prediction accuracy using an LR temporal validation framework
 - Presented genomic prediction research at the Advances in Genome Biology and Technology (AGBT) Agricultural Meeting, 2025, and the Population, Evolutionary, and Quantitative Genetics Conference (PEQG), 2026
 
+**Collaborative Research Project** (ongoing, independent of PhD assistantship duties, originated during MS), University of Arkansas collaborators
+
+- Extended weighted genomic prediction methodology to disease-resistance and abiotic-stress trait prediction in cowpea and common bean, using SNP weighting informed by meta-transcriptomic (RNA-seq) evidence
+
 **Pathology Research Specialist**, Pathology Unit, Trait Assessment, North America, Syngenta Seeds Inc. May 2021 - April 2024
+
 - Assessed field corn, sweet corn, and soybean for resistance or tolerance to plant pathogens of economic importance, feeding disease trait data directly into product advancement decisions
 - Planned and implemented pathology research trials on field corn within the Trait Assessment program
 - Served as a member of Market Segment Teams for Field Corn pathology traits in North America
 - Handled the adoption of a proprietary data collection tool for field corn pathology trials
 
 **Program Technician**, Vegetable Breeding and Genetic Laboratory, Department of Horticulture, University of Arkansas, Fayetteville. April 2021 - May 2021
+
 - Worked on improving economically important traits in spinach, arugula, soybean, and common bean
 
 **Graduate Research Assistant**, spinach breeding and genetics for downy mildew resistance, University of Arkansas, Fayetteville. January 2019 - April 2021
+
 - Bred spinach for resistance to the downy mildew pathogen *Peronospora effusa*, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm
 - Conducted disease assays and phenotyping for disease and agronomic traits in field corn, sweet corn, soybean, and snap bean, in field and greenhouse settings
 - Produced high-quality inoculum for disease assays and standardized disease assay protocols
 
 **Laboratory Attendant**, Plant Pathology Unit, International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. November 2018 - January 2019
+
 - Developed biocontrol management strategies for black Sigatoka disease of banana plants
 
 **Graduate Research Unpaid Internship**, Plant Pathology Unit, International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. June 2018 - November 2018
+
 - Characterized the biology of plant pathogens causing diseases of economic importance in field corn and banana
 
 **Undergraduate Research Assistantship**, Department of Crop Protection, Federal University of Agriculture, Abeokuta, Nigeria. June 2015 - October 2016
+
 - Participated in molecular marker evaluation of indigenous tomato genotypes for Fusarium wilt resistance (CAPS marker TAO1, endonuclease FOK1, homozygous I2 resistance gene selection)
 
 ## LEADERSHIP
@@ -68,6 +78,7 @@ Judge, Agronomy and Horticulture 4-H program, University of Minnesota. July 2022
 Invited as a panelist for the 2023 Professional Development Workshop, Corteva Symposium, West Africa
 
 Volunteer Reviewer: Agrosystems, Geosciences & Environment; Nigerian Journal of Biotechnology
+
 - Provided reviews on three manuscripts for the journal, Nigerian Journal of Biotechnology
 - Provided reviews on a few manuscripts for the journal, Agrosystems, Geosciences & Environment
 
@@ -77,7 +88,7 @@ Volunteer member, Volunteer Action Center, Fayetteville, Arkansas. 2019-2021
 
 ## KEY SKILLS
 
-**Quantitative genetics / genomic prediction:** Single-step GBLUP (ssGBLUP) and GBLUP via BLUPF90+/GIBBSF90+, including threshold models for binary traits; univariate, bivariate, and multi-trait mixed-model analyses; REML/AI-REML variance component estimation; LR (Legarra & Reverter, 2018) validation; genomic relationship matrix construction (VanRaden method); weighted/evidence-informed genomic prediction
+**Quantitative genetics / genomic prediction:** Single-step GBLUP (ssGBLUP) and GBLUP via BLUPF90+/GIBBSF90+, including threshold models for binary traits; univariate, bivariate, and multi-trait mixed-model analyses; REML/AI-REML variance component estimation; LR validation; genomic relationship matrix construction (VanRaden method); weighted/evidence-informed genomic prediction
 
 **Population genetics:** Principal component analysis and population stratification correction (PLINK); genotype imputation (Beagle); variant filtering and manipulation (bcftools)
 
