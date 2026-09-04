@@ -1,13 +1,15 @@
 ---
 title: "Dotun Olaoye"
-subtitle: "PhD Candidate, Statistical Genetics — University of Missouri"
+subtitle: "PhD Student, Statistical Genetics, University of Missouri"
 ---
 
-I am a PhD candidate in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My research centers on quantitative genetics and genomic prediction, spanning both animal and plant breeding systems: multi-breed genomic evaluation of puberty and fertility traits in beef cattle, and cross-species genomic prediction of disease-resistance and abiotic-stress traits in legume crops (cowpea, common bean).
+I hold a Bachelor of Agriculture (Honors: Crop Protection/Pathology) from the Federal University of Agriculture, Abeokuta, Nigeria, and a Master of Science in Plant Breeding, Genetics and Pathology from the University of Arkansas, Fayetteville, where I worked on breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm. During this period I also conceived the RNA-seq meta-analysis and cross-species genomic prediction framework I have continued to develop since, which uses machine learning and network analysis to identify stress-responsive genes in common bean and tests whether SNP subsets prioritized by these genes improve genomic prediction accuracy for disease-resistance traits in common bean and abiotic-stress traits in cowpea.
 
-Before my PhD, I completed a Master of Science in Plant Breeding, Genetics and Pathology at the University of Arkansas, where I worked on breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, and spent three years as a Pathology Research Specialist at Syngenta Seeds Inc., evaluating field corn, sweet corn, and soybean for disease resistance within a commercial trait-advancement pipeline. My academic foundation is in plant pathology, from a Bachelor of Agriculture (Honors: Crop Protection/Pathology) at the Federal University of Agriculture, Abeokuta, Nigeria.
+Between the master's and my current PhD, I spent three years as a Pathology Research Specialist at Syngenta Seeds Inc., evaluating field corn, sweet corn, and soybean for resistance to economically important plant pathogens within a commercial trait-advancement pipeline.
 
-Across these roles, my work has combined statistical genetics methodology — single-step GBLUP, mixed-model genetic evaluation, LR validation — with hands-on plant pathology and breeding experience, applied to problems in both livestock and crop improvement.
+I am a PhD student in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My current research centers on multi-breed genomic evaluation of puberty and fertility traits in beef cattle, using single-step GBLUP and GBLUP models.
+
+Across these roles, my work combines statistical genetics methodology, including mixed-model genetic evaluation and LR validation, with a background in plant pathology and disease-resistance breeding, applied to problems in both livestock and crop improvement.
 
 ::: {.profile-links}
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=KKN-ZewAAAAJ) &nbsp;|&nbsp;

@@ -2,25 +2,25 @@
 title: "Work & Research Experience"
 ---
 
-**Graduate Research Assistant:** Multi-breed genomic prediction of puberty and fertility traits in beef heifer cattle. University of Missouri, Columbia. June 2024 – Present
-Quantitative genetic evaluation and genomic prediction — building and validating single-step GBLUP and GBLUP models across multiple beef cattle breeds to estimate genetic parameters and breeding values for reproductive traits, and extending the same genomic prediction framework to disease and stress-tolerance traits in legume crops in collaborative projects.
+**Graduate Research Assistant:** Multi-breed genomic prediction of puberty and fertility traits in beef heifer cattle. University of Missouri, Columbia. June 2024 - Present
+Quantitative genetic evaluation and genomic prediction, building and validating single-step GBLUP and GBLUP models across multiple beef cattle breeds to estimate genetic parameters and breeding values for reproductive traits, and extending the same genomic prediction framework to disease and stress-tolerance traits in legume crops in collaborative projects.
 
-**Pathology Research Specialist:** Pathology Unit, Trait Assessment, North America. Syngenta Seeds Inc. May 2021 – April 2024
-Assessed crops — including field corn, sweet corn, soybean — for resistance or tolerance to plant pathogens of economic importance. Planned and implemented pathology research trials on field corn; contributed disease trait evaluation data for product advancement; handled adoption of a proprietary data collection tool; served on Market Segment Teams for Field Corn pathology traits; trained new hires and supervised seasonal technical personnel and a research associate.
+**Pathology Research Specialist:** Pathology Unit, Trait Assessment, North America. Syngenta Seeds Inc. May 2021 - April 2024
+Assessed crops, including field corn, sweet corn, and soybean, for resistance or tolerance to plant pathogens of economic importance. Planned and implemented pathology research trials on field corn, contributed disease trait evaluation data for product advancement, handled adoption of a proprietary data collection tool, served on Market Segment Teams for Field Corn pathology traits, and trained new hires and supervised seasonal technical personnel and a research associate.
 
-**Program Technician:** Vegetable Breeding and Genetic Laboratory, Department of Horticulture. University of Arkansas, Fayetteville. April 2021 – May 2021
+**Program Technician:** Vegetable Breeding and Genetic Laboratory, Department of Horticulture. University of Arkansas, Fayetteville. April 2021 - May 2021
 Focused on improving economically important traits in vegetable crops such as spinach, arugula, soybean, and common bean.
 
-**Graduate Research Assistant:** Spinach breeding and genetics for downy mildew resistance. University of Arkansas, Fayetteville. January 2019 – April 2021
+**Graduate Research Assistant:** Spinach breeding and genetics for downy mildew resistance. University of Arkansas, Fayetteville. January 2019 - April 2021
 Focused on breeding and improving resistance to the downy mildew pathogen of spinach, including genetic characterization of resistance loci and race-specific resistance.
 
-**Laboratory Attendant:** Plant Pathology Unit. International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. November 2018 – January 2019
+**Laboratory Attendant:** Plant Pathology Unit. International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. November 2018 - January 2019
 Developed biocontrol management strategies for black Sigatoka disease of banana plants.
 
-**Graduate Research Unpaid Internship:** Plant Pathology Unit. International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. June 2018 – November 2018
+**Graduate Research Unpaid Internship:** Plant Pathology Unit. International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. June 2018 - November 2018
 Characterized the biology of plant pathogens causing diseases of economic importance in field corn and banana.
 
-**Undergraduate Research Assistantship:** Department of Crop Protection. Federal University of Agriculture, Abeokuta, Nigeria. June 2015 – October 2016
+**Undergraduate Research Assistantship:** Department of Crop Protection. Federal University of Agriculture, Abeokuta, Nigeria. June 2015 - October 2016
 Participated in molecular marker evaluation of indigenous tomato genotypes for Fusarium wilt resistance.
 
 Full CV available [here](Dotun_Olaoye_CV.pdf).
