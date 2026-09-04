@@ -6,7 +6,7 @@ Full list also available on [Google Scholar](https://scholar.google.com/citation
 
 ## Journal articles and preprints
 
-Olaoye, D., Bhattarai, G., Correll, J., Shi, A. Genetic analysis reveals novel genomic regions for downy mildew resistance and validates the potential for predictive breeding in spinach (*Spinacia oleracea*). Under review, *BMC Plant Biology*.
+Olaoye, D., Bhattarai, G., Correll, J., Shi, A. Genetic analysis reveals novel genomic regions for downy mildew resistance and validates the potential for predictive breeding in spinach (*Spinacia oleracea*). Under review, *BMC Plant Biology*, 2026.
 
 Olaoye, D., Rasaki, L., Adesina, O., Kareem, B., Kandel, S., Ravelombola, W., Yang, Y., Shi, A. RNA-seq meta-analysis and machine learning identify stress-responsive genes and improve genomic prediction in common bean (*Phaseolus vulgaris* L.) with cross-species application in cowpea (*Vigna unguiculata* L.). *bioRxiv* (2026). [doi:10.64898/2026.08.08.743654](https://doi.org/10.64898/2026.08.08.743654) (preprint)
 
