@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I built and validated a full genomic prediction pipeline for puberty and fertility traits (reproductive tract score, pelvic height/width, days open, heifer pregnancy) across five beef cattle breed populations — Angus, Red Angus, Hereford, a Bos indicus-influenced population, and a pooled MultiBreed population of over 9,000 animals genotyped on an 800K SNP panel. The pipeline spans univariate, bivariate, and multi-trait single-step GBLUP and GBLUP models via BLUPF90+/GIBBSF90+, with genetic parameter estimation (heritability, genetic correlations) via REML/AI-REML and prediction accuracy validated using the LR (Legarra & Reverter, 2018) temporal validation framework. Related work includes a Breed-As-Trait analysis estimating genetic correlations for the same traits measured across different breeds, and a population-stratification-adjusted (PCA-corrected) extension of the MultiBreed models."
+  },
+  {
+    "objectID": "research.html#multi-breed-genomic-prediction-in-beef-cattle",
+    "href": "research.html#multi-breed-genomic-prediction-in-beef-cattle",
+    "title": "Research",
+    "section": "",
+    "text": "I built and validated a full genomic prediction pipeline for puberty and fertility traits (reproductive tract score, pelvic height/width, days open, heifer pregnancy) across five beef cattle breed populations — Angus, Red Angus, Hereford, a Bos indicus-influenced population, and a pooled MultiBreed population of over 9,000 animals genotyped on an 800K SNP panel. The pipeline spans univariate, bivariate, and multi-trait single-step GBLUP and GBLUP models via BLUPF90+/GIBBSF90+, with genetic parameter estimation (heritability, genetic correlations) via REML/AI-REML and prediction accuracy validated using the LR (Legarra & Reverter, 2018) temporal validation framework. Related work includes a Breed-As-Trait analysis estimating genetic correlations for the same traits measured across different breeds, and a population-stratification-adjusted (PCA-corrected) extension of the MultiBreed models."
+  },
+  {
+    "objectID": "research.html#cross-species-evidence-informed-genomic-prediction-in-legumes",
+    "href": "research.html#cross-species-evidence-informed-genomic-prediction-in-legumes",
+    "title": "Research",
+    "section": "Cross-species, evidence-informed genomic prediction in legumes",
+    "text": "Cross-species, evidence-informed genomic prediction in legumes\nBuilding on a systematic RNA-seq meta-analysis of common bean stress transcriptomes (19 public datasets, machine learning and network-based gene discovery), I evaluated whether SNP subsets prioritized by proximity to biologically evidenced stress-responsive genes improve genomic prediction accuracy relative to standard equal-weight GBLUP and random-marker controls. This framework has been applied to bacterial wilt and soybean cyst nematode resistance in common bean, and — via cross-species ortholog mapping — to abiotic stress tolerance (drought, salt) in cowpea."
+  },
+  {
+    "objectID": "research.html#disease-resistance-breeding-and-genetics",
+    "href": "research.html#disease-resistance-breeding-and-genetics",
+    "title": "Research",
+    "section": "Disease resistance breeding and genetics",
+    "text": "Disease resistance breeding and genetics\nMy earlier graduate and industry work focused on plant pathology and disease-resistance breeding directly: breeding spinach for resistance to the downy mildew pathogen Peronospora effusa, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm, and three years evaluating field corn, sweet corn, and soybean for pathogen resistance within Syngenta’s Trait Assessment pipeline."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dotun Olaoye",
+    "section": "",
+    "text": "I am a PhD candidate in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My research centers on quantitative genetics and genomic prediction, spanning both animal and plant breeding systems: multi-breed genomic evaluation of puberty and fertility traits in beef cattle, and cross-species genomic prediction of disease-resistance and abiotic-stress traits in legume crops (cowpea, common bean).\nBefore my PhD, I completed a Master of Science in Plant Breeding, Genetics and Pathology at the University of Arkansas, where I worked on breeding spinach for resistance to the downy mildew pathogen Peronospora effusa, and spent three years as a Pathology Research Specialist at Syngenta Seeds Inc., evaluating field corn, sweet corn, and soybean for disease resistance within a commercial trait-advancement pipeline. My academic foundation is in plant pathology, from a Bachelor of Agriculture (Honors: Crop Protection/Pathology) at the Federal University of Agriculture, Abeokuta, Nigeria.\nAcross these roles, my work has combined statistical genetics methodology — single-step GBLUP, mixed-model genetic evaluation, LR validation — with hands-on plant pathology and breeding experience, applied to problems in both livestock and crop improvement.\n\nGoogle Scholar  |  GitHub  |  Email"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Download full CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education\nPhD, Statistical Genetics — University of Missouri, Columbia (with Dr. Jared Decker). June 2024 – Present\nMS, Plant Breeding, Genetics and Pathology — University of Arkansas, Fayetteville. May 2021\nBAgric (Honors: Crop Protection/Pathology) — Federal University of Agriculture, Abeokuta, Nigeria. 2017"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "Experience",
+    "text": "Experience\nGraduate Research Assistant — University of Missouri, Columbia. June 2024 – Present\nPathology Research Specialist, Trait Assessment North America — Syngenta Seeds Inc. May 2021 – April 2024\nGraduate Research Assistant — University of Arkansas, Fayetteville. January 2019 – April 2021\nGraduate Research Unpaid Internship / Laboratory Attendant — IITA-CGIAR, Ibadan, Nigeria. June 2018 – January 2019\nSee the full CV for complete details, publications, and technical skills."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Full list also available on Google Scholar."
+  },
+  {
+    "objectID": "publications.html#journal-articles-and-preprints",
+    "href": "publications.html#journal-articles-and-preprints",
+    "title": "Publications",
+    "section": "Journal articles and preprints",
+    "text": "Journal articles and preprints\nOlaoye, D., Bhattarai, G., Correll, J., Shi, A. Genetic analysis reveals novel genomic regions for downy mildew resistance and validates the potential for predictive breeding in spinach (Spinacia oleracea). Under review, BMC Plant Biology.\nOlaoye, D., Rasaki, L., Adesina, O., Kareem, B., Kandel, S., Ravelombola, W., Yang, Y., Shi, A. RNA-seq meta-analysis and machine learning identify stress-responsive genes and improve genomic prediction in common bean (Phaseolus vulgaris L.) with cross-species application in cowpea (Vigna unguiculata L.). bioRxiv (2026). doi:10.64898/2026.08.08.743654 (preprint)\nOlaoye, D., Bhattarai, G., Feng, C. et al. Evaluation of downy mildew resistance in spinach (Spinacia oleracea). Euphytica 220, 38 (2024). doi:10.1007/s10681-023-03289-9\nBhattarai G, Olaoye D, Mou B, Correll JC and Shi A (2022) Mapping and selection of downy mildew resistance in spinach cv. whale by low coverage whole genome sequencing. Front. Plant Sci. 13:1012923. doi:10.3389/fpls.2022.1012923\nZia, B, A. Shi, D. Olaoye, H. Xiong, W. Ravelombola, P. Gepts, H.F. Schwartz, M.A. Brick, K. Otto, B. Ogg, and S, Chen. 2022. Genome-wide association study and genomic prediction for bacterial wilt resistance in common bean (Phaseolus vulgaris) core collection. Front. Genet. doi:10.3389/fgene.2022.853114\nRavelombola, W., Shi, A., Huynh, B.L., Qin, J., Xiong, H., Manley, A., Dong, L., Olaoye, D., Bhattarai, G., Zia, B. and Alshaya, H., 2022. Genetic architecture of salt tolerance in a Multi-Parent Advanced Generation Inter-Cross (MAGIC) cowpea population. BMC genomics, 23(1), pp.1-22.\nRavelombola, W., Dong, L., Barickman, T.C., Xiong, H., Olaoye, D., Bhattarai, G., Zia, B., Alshaya, H., Alatawi, I. and Shi, A., 2021. Evaluation of salt tolerance in cowpea at seedling stage. Euphytica, 217(6), pp.1-20.\nRavelombola, W., Shi, A., Chen, S., Xiong, H., Yang, Y., Cui, Q., Olaoye, D. and Mou, B., (2020). Evaluation of cowpea for drought tolerance at seedling stage. Euphytica, 216(8), pp.1-19.\nYang, Y., Shi, D., Wang, Y., Zhang, L., Chen, X., Yang, X. … & Yang, G. (2020). Transcript profiling for regulation of sweet potato skin color in Sushu8 and its mutant Zhengshu20. Plant Physiology and Biochemistry, 148, 1-9."
+  },
+  {
+    "objectID": "publications.html#conference-presentations",
+    "href": "publications.html#conference-presentations",
+    "title": "Publications",
+    "section": "Conference presentations",
+    "text": "Conference presentations\nOlaoye, D., Franklin, G., Schnabel, R., Thomas, J., Decker, J. Predicting Puberty and Fertility Traits in Multi-breed Beef Heifer Cattle. Poster, Population, Evolutionary, and Quantitative Genetics Conference (PEQG), 2026\nEstimating genetic parameters and predicting puberty and fertility traits in multi-breed beef heifer cattle. Advances in Genome Biology and Technology (AGBT) Agricultural Meeting, 2025\nOlaoye, D., Bhattarai, G., Feng, C., Correll, J. C., & Shi, A. (2020, August). Evaluation of Resistance to Pfs race 5 in Worldwide Spinach Collection. 2020 ASHS Annual Conference.\nOlaoye, D., Shi, A., Ravelombola, W. S., Bhattarai, G., & Xiong, H. (2020, August). Drought Tolerance Characterization in two Contrasting Common Bean Genotypes. 2020 ASHS Annual Conference.\nOlaoye, D., Bhattarai, G., Feng, C., Shi, A., & Correll, J. (2019, November). Evaluation of Incomplete Dominance in a Spinach Downy Mildew Resistance Locus. ASA, CSSA and SSSA International Annual Meetings."
+  }
+]

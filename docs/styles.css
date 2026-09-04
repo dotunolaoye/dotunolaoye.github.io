@@ -1,0 +1,12 @@
+/* minimal personal-site styling */
+body {
+  max-width: 900px;
+}
+
+h1.title {
+  margin-bottom: 0.25rem;
+}
+
+.profile-links a {
+  margin-right: 1rem;
+}

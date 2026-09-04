@@ -1,0 +1,16 @@
+---
+title: "Dotun Olaoye"
+subtitle: "PhD Candidate, Statistical Genetics — University of Missouri"
+---
+
+I am a PhD candidate in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My research centers on quantitative genetics and genomic prediction, spanning both animal and plant breeding systems: multi-breed genomic evaluation of puberty and fertility traits in beef cattle, and cross-species genomic prediction of disease-resistance and abiotic-stress traits in legume crops (cowpea, common bean).
+
+Before my PhD, I completed a Master of Science in Plant Breeding, Genetics and Pathology at the University of Arkansas, where I worked on breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, and spent three years as a Pathology Research Specialist at Syngenta Seeds Inc., evaluating field corn, sweet corn, and soybean for disease resistance within a commercial trait-advancement pipeline. My academic foundation is in plant pathology, from a Bachelor of Agriculture (Honors: Crop Protection/Pathology) at the Federal University of Agriculture, Abeokuta, Nigeria.
+
+Across these roles, my work has combined statistical genetics methodology — single-step GBLUP, mixed-model genetic evaluation, LR validation — with hands-on plant pathology and breeding experience, applied to problems in both livestock and crop improvement.
+
+::: {.profile-links}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=KKN-ZewAAAAJ) &nbsp;|&nbsp;
+[GitHub](https://github.com/dotunolaoye) &nbsp;|&nbsp;
+[Email](mailto:dsolaoye@missouri.edu)
+:::
