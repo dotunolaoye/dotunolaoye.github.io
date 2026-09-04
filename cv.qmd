@@ -6,18 +6,18 @@ title: "CV"
 
 ## SUMMARY
 
-PhD student in Statistical Genetics specializing in quantitative genetics and genomic prediction across animal and plant breeding systems. Experienced in single-step GBLUP, mixed-model genetic evaluation, and cross-species genomic prediction informed by transcriptomic evidence. Background in plant pathology and disease-resistance breeding, with three years of industry experience evaluating crop disease resistance within a commercial trait-advancement pipeline.
+PhD student in Statistical Genetics specializing in quantitative genetics and genomic prediction across animal and plant breeding systems. Experienced in single-step GBLUP and mixed-model genetic evaluation. Background in plant pathology and disease-resistance breeding, with three years of industry experience evaluating crop disease resistance within a commercial trait-advancement pipeline.
 
 ## EDUCATION
 
-**Doctor of Philosophy - Statistical Genetics** (with Dr. Jared Decker)
-University of Missouri, Columbia. USA. June 2024 - Present
+**Doctor of Philosophy - Statistical Genetics** (with Dr. Jared Decker)\
+University of Missouri, Columbia. USA. June 2024 - Present\
 Research focus: multi-breed genomic prediction of puberty and fertility traits in beef heifer cattle
 
-**Master of Science - Plant Breeding, Genetics and Pathology**
+**Master of Science - Plant Breeding, Genetics and Pathology**\
 University of Arkansas, Fayetteville. USA. May 2021
 
-**Bachelor of Agriculture** (Honor's: Crop Protection/Pathology)
+**Bachelor of Agriculture** (Honor's: Crop Protection/Pathology)\
 Federal University of Agriculture, Abeokuta. Nigeria. 2017
 
 ## WORK EXPERIENCE
@@ -25,7 +25,7 @@ Federal University of Agriculture, Abeokuta. Nigeria. 2017
 **Graduate Research Assistant**, University of Missouri, Columbia. June 2024 - Present
 
 - Built and validated a multi-breed genomic prediction pipeline (univariate, bivariate, and multi-trait single-step GBLUP and GBLUP) for puberty and fertility traits across five beef cattle breed populations (Angus, Red Angus, Hereford, Bos indicus-influenced, and a pooled MultiBreed population of over 9,000 animals genotyped on an 800K SNP panel) using BLUPF90+/GIBBSF90+
-- Estimated variance components, heritability, and genetic correlations via REML/AI-REML, and validated genomic prediction accuracy using an LR temporal validation framework
+- Estimated variance components, heritability, and genetic correlations via REML/AI-REML, and validated genomic prediction accuracy using a Linear Regression (LR) temporal validation framework
 - Presented genomic prediction research at the Advances in Genome Biology and Technology (AGBT) Agricultural Meeting, 2025, and the Population, Evolutionary, and Quantitative Genetics Conference (PEQG), 2026
 
 **Collaborative Research Project** (ongoing, independent of PhD assistantship duties, originated during MS), University of Arkansas collaborators
@@ -71,6 +71,8 @@ Currently mentoring an honors student in the research lab
 
 Mentored a bachelor's student on manuscript preparation and publication (see acknowledgement: [doi:10.1080/03235408.2020.1715756](https://doi.org/10.1080/03235408.2020.1715756))
 
+## PROFESSIONAL SERVICE
+
 Served as Ad-hoc Secretary for the Vigna spp USDA's CGC at the Annual International Crop Science Meeting, Texas, USA. November 2019
 
 Judge, Agronomy and Horticulture 4-H program, University of Minnesota. July 2022
@@ -88,7 +90,7 @@ Volunteer member, Volunteer Action Center, Fayetteville, Arkansas. 2019-2021
 
 ## KEY SKILLS
 
-**Quantitative genetics / genomic prediction:** Single-step GBLUP (ssGBLUP) and GBLUP via BLUPF90+/GIBBSF90+, including threshold models for binary traits; univariate, bivariate, and multi-trait mixed-model analyses; REML/AI-REML variance component estimation; LR validation; genomic relationship matrix construction (VanRaden method); weighted/evidence-informed genomic prediction
+**Quantitative genetics / genomic prediction:** Single-step GBLUP (ssGBLUP) and GBLUP via BLUPF90+/GIBBSF90+, including threshold models for binary traits; univariate, bivariate, and multi-trait mixed-model analyses; REML/AI-REML variance component estimation; Linear Regression (LR) validation; genomic relationship matrix construction (VanRaden method); weighted/evidence-informed genomic prediction
 
 **Population genetics:** Principal component analysis and population stratification correction (PLINK); genotype imputation (Beagle); variant filtering and manipulation (bcftools)
 
@@ -110,8 +112,6 @@ Volunteer member, Volunteer Action Center, Fayetteville, Arkansas. 2019-2021
 **Two-time (2019 & 2020) Travel Grant Award** ($600), Graduate School, University of Arkansas, Fayetteville
 
 **2019 Plant Health and Quality Summer School Scholarship** (€1200), Campus Vegetal of Angers, University of Angers, France
-
-**2019 Master's Program at University of Pretoria, MasterCard Foundation Scholarship** (considered; not completed due to transcript-evaluation funding limitation)
 
 ## PUBLICATIONS
 
