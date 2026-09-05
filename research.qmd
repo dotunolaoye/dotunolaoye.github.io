@@ -11,19 +11,19 @@ I conducted a systematic RNA-seq meta-analysis of common bean stress transcripto
 My graduate and industry work in plant pathology focused directly on disease-resistance breeding: breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm, and three years evaluating field corn, sweet corn, and soybean for pathogen resistance within Syngenta's Trait Assessment pipeline.
 
 ::: {layout-ncol=2}
-![Downy mildew on spinach (*Peronospora effusa*)](images/spinach_downy_mildew.jpg)
+![Downy mildew of spinach (*Peronospora effusa*)](images/spinach_downy_mildew.jpg)
 
-![White mold on soybean](images/soybean_mold.jpg)
+![White mold of soybean](images/soybean_mold.jpg)
 
-![Brown spot on bean](images/bean_brown_spot.jpg)
+![Brown spot of bean](images/bean_brown_spot.jpg)
 
 ![Northern corn leaf blight](images/corn_nclb.jpg)
 
-![Gray leaf spot on corn](images/corn_gls.jpg)
+![Gray leaf spot of corn](images/corn_gls.jpg)
 
-![Anthracnose stalk rot on corn](images/corn_anthracnose_stalk_rot.jpg)
+![Anthracnose stalk rot of corn](images/corn_anthracnose_stalk_rot.jpg)
 
-![Ear rot on corn](images/corn_ear_rot.jpg)
+![Ear rot of corn](images/corn_ear_rot.jpg)
 :::
 
 ## Multi-breed genomic prediction in beef cattle
