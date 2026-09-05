@@ -6,10 +6,6 @@ title: "Research"
 
 I conducted a systematic RNA-seq meta-analysis of common bean stress transcriptomes (19 public datasets), combining statistical meta-analysis with machine learning and network-based gene discovery to identify consensus stress-responsive genes. I then evaluated whether SNP subsets prioritized by proximity to these evidence genes improve genomic prediction accuracy relative to standard equal-weight GBLUP and random-marker controls. This framework has been applied to bacterial wilt and soybean cyst nematode resistance in common bean, and, through cross-species ortholog mapping, to abiotic stress tolerance (drought, salt) in cowpea.
 
-::: {layout-ncol=1}
-![Brown spot on common bean, one of the disease-resistance traits targeted by this genomic prediction framework](images/bean_brown_spot.jpg){width=60%}
-:::
-
 ## Disease resistance breeding and genetics
 
 My graduate and industry work in plant pathology focused directly on disease-resistance breeding: breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm, and three years evaluating field corn, sweet corn, and soybean for pathogen resistance within Syngenta's Trait Assessment pipeline.
@@ -17,7 +13,9 @@ My graduate and industry work in plant pathology focused directly on disease-res
 ::: {layout-ncol=2}
 ![Downy mildew on spinach (*Peronospora effusa*)](images/spinach_downy_mildew.jpg)
 
-![Charcoal/mold symptoms on soybean](images/soybean_mold.jpg)
+![White mold on soybean](images/soybean_mold.jpg)
+
+![Brown spot on bean](images/bean_brown_spot.jpg)
 
 ![Northern corn leaf blight](images/corn_nclb.jpg)
 
