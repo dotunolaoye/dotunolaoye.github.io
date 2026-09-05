@@ -4,6 +4,8 @@ subtitle: "PhD Student, Statistical Genetics, University of Missouri"
 page-layout: full
 about:
   template: trestles
+  image: profile.jpg
+  image-shape: round
   links:
     - icon: mortarboard-fill
       text: Google Scholar
