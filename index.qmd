@@ -24,4 +24,4 @@ Between the master's and my current PhD, I spent three years as a Pathology Rese
 
 I am a PhD student in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My current research centers on multi-breed genomic evaluation of puberty and fertility traits in beef cattle, using single-step GBLUP and GBLUP models.
 
-My work applies statistical genetics methods, including mixed-model genetic evaluation and Linear Regression (LR) validation, to problems in both livestock and crop improvement, building on a background in plant pathology and disease-resistance breeding.
+My work applies statistical genetics methods, including mixed-model genetic evaluation under both frequentist and Bayesian frameworks and Linear Regression (LR) validation, to problems in both livestock and crop improvement, building on a background in plant pathology and disease-resistance breeding.
