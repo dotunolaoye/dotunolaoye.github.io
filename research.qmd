@@ -20,6 +20,10 @@ My graduate and industry work in plant pathology focused directly on disease-res
 ![Northern corn leaf blight](images/corn_nclb.jpg)
 
 ![Gray leaf spot on corn](images/corn_gls.jpg)
+
+![Anthracnose stalk rot on corn](images/corn_anthracnose_stalk_rot.jpg)
+
+![Ear rot on corn](images/corn_ear_rot.jpg)
 :::
 
 ## Multi-breed genomic prediction in beef cattle
