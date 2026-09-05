@@ -1,6 +1,7 @@
 ---
 title: "Dotun Olaoye"
 subtitle: "PhD Student, Statistical Genetics, University of Missouri"
+page-layout: full
 about:
   template: trestles
   links:

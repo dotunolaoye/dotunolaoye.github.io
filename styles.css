@@ -3,6 +3,10 @@ body {
   max-width: 900px;
 }
 
+body:has(.page-layout-full) {
+  max-width: 1200px;
+}
+
 h1.title {
   margin-bottom: 0.25rem;
 }
