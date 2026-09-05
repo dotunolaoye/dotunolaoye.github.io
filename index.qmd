@@ -1,6 +1,18 @@
 ---
 title: "Dotun Olaoye"
 subtitle: "PhD Student, Statistical Genetics, University of Missouri"
+about:
+  template: trestles
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?hl=en&user=KKN-ZewAAAAJ
+    - icon: github
+      text: GitHub
+      href: https://github.com/dotunolaoye
+    - icon: envelope
+      text: Email
+      href: mailto:dsolaoye@missouri.edu
 ---
 
 I hold a Bachelor of Agriculture (Honors: Crop Protection/Pathology) from the Federal University of Agriculture, Abeokuta, Nigeria, and a Master of Science in Plant Breeding, Genetics and Pathology from the University of Arkansas, Fayetteville, where I worked on breeding spinach for resistance to the downy mildew pathogen *Peronospora effusa*, including genetic characterization of resistance loci and race-specific resistance across worldwide germplasm. During this period I also conceived the RNA-seq meta-analysis and cross-species genomic prediction framework I have continued to develop since, which uses machine learning and network analysis to identify stress-responsive genes in common bean and tests whether SNP subsets prioritized by these genes improve genomic prediction accuracy for disease-resistance traits in common bean and abiotic-stress traits in cowpea.
@@ -10,9 +22,3 @@ Between the master's and my current PhD, I spent three years as a Pathology Rese
 I am a PhD student in Statistical Genetics at the University of Missouri, Columbia, working with Dr. Jared Decker in the Genetics Area Program. My current research centers on multi-breed genomic evaluation of puberty and fertility traits in beef cattle, using single-step GBLUP and GBLUP models.
 
 My work applies statistical genetics methods, including mixed-model genetic evaluation and Linear Regression (LR) validation, to problems in both livestock and crop improvement, building on a background in plant pathology and disease-resistance breeding.
-
-::: {.profile-links}
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=KKN-ZewAAAAJ) &nbsp;|&nbsp;
-[GitHub](https://github.com/dotunolaoye) &nbsp;|&nbsp;
-[Email](mailto:dsolaoye@missouri.edu)
-:::
