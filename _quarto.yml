@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google1b5dfd7c0d45a4a9.html
+    - Dotun_Olaoye_CV.pdf
 
 website:
   title: "Dotun Olaoye"
@@ -25,7 +28,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: false
     page-layout: article
