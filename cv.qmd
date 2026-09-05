@@ -6,7 +6,7 @@ title: "CV"
 
 ## SUMMARY
 
-PhD student in Statistical Genetics specializing in quantitative genetics and genomic prediction across animal and plant breeding systems. Experienced in single-step GBLUP and mixed-model genetic evaluation. Background in plant pathology and disease-resistance breeding, with three years of industry experience evaluating crop disease resistance within a commercial trait-advancement pipeline.
+PhD student in Statistical Genetics specializing in quantitative genetics and genomic prediction across animal and plant breeding systems. Experienced in genome-phenome association analysis, trait prediction, and mixed-model genetic evaluation. Background in plant pathology and disease-resistance breeding, with three years of industry experience evaluating crop disease resistance within a commercial trait-advancement pipeline.
 
 ## EDUCATION
 
@@ -51,7 +51,7 @@ Federal University of Agriculture, Abeokuta, Nigeria. 2017
 
 **Laboratory Attendant**, Plant Pathology Unit, International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. November 2018 - January 2019
 
-- Developed biocontrol management strategies for black Sigatoka disease of banana plants
+- Biocontrol management strategies for black Sigatoka disease of banana plants
 
 **Graduate Research Unpaid Internship**, Plant Pathology Unit, International Institute of Tropical Agriculture, IITA-CGIAR, Ibadan, Nigeria. June 2018 - November 2018
 
@@ -96,7 +96,7 @@ Volunteer member, Volunteer Action Center, Fayetteville, Arkansas. 2019-2021
 
 **Population genetics:** Principal component analysis and population stratification correction (PLINK); genotype imputation (Beagle); variant filtering and manipulation (bcftools)
 
-**Programming:** R (sommer, lme4/lmerTest, tidyverse, ggplot2), Python, Perl, SQL, SAS, JMP, Quarto/R Markdown, shell scripting, HPC job orchestration (SLURM)
+**Programming:** R, Python, Perl, SQL, SAS, JMP, Quarto/R Markdown, shell scripting, HPC job orchestration (SLURM)
 
 **Genomic/bioinformatics tools:** BLUPF90+/GIBBSF90+ family, PLINK, bcftools, Beagle, TASSEL, MEGA, QTL mapping and GWAS software
 
@@ -124,6 +124,9 @@ Full list also on the [Publications](publications.qmd) page.
 ## PROFESSIONAL MEMBERSHIP AND TRAINING
 
 Former Graduate Student Member: American Society of Horticultural Science; American Society of Agronomy; Crop Science Society of America; Soil Science Society of America
+
+Bruce Weir Summer Institute in Statistical Genetics (SISG). Summer 2025\
+Modules completed: QG1 (Quantitative Genetics), QG2 (Mixed Models for Genetic Analysis), HE3 (Artificial Intelligence/Machine Learning)
 
 5th Annual Meeting of the Arkansas Bioinformatics Consortium (AR-BIC 2019). Bioinformatics in Food and Agriculture, UAMS, Little Rock, AR. February 25-26, 2019
 
